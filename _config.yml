@@ -22,13 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Arthur de Brito Baldini"
+  bio              : "Economista e Mestre em Administração"
+  location         : "Brasília - DF"
+  employer         : "Banco do Brasil"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "baldiniarthur@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
