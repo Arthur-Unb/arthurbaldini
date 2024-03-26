@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Sou um economista com profunda curiosidade pelo universo de finanças. No meu site você poderá acompanhar meus principais projetos envolvendo finanças, ver meu currículo, publicações, material de ensino e alguns posts ocasionais sobre finanças corporativas, mercado financeiro, econometria, programação, finanças pessoais e muito mais (a depender do meu empenho hehe).
 
-Olá!
 
 A data-driven personal website
 ======
