@@ -1,10 +1,7 @@
 # main links links
 main:
-  - title: "Publica"
+  - title: "Publicações"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
@@ -20,3 +17,7 @@ main:
     
   - title: "Guide"
     url: /markdown/
+
+  - title: "Talks"
+    url: /talks/    
+
