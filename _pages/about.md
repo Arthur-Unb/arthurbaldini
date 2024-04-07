@@ -17,14 +17,3 @@ Histórias à parte, o início do curso de Economia na UnB foi extremamente dive
 Mesmo tendo feito um excelente curso de economia e diversas cadeiras de finanças, me formei em economia ainda achando que sabia muito pouco sobre essa temática, o que me levou a me matricular no mestrado do departamento de Administração da UnB, na linha de pesquisa de Finanças e Métodos Quantitativos. Os dois anos do mestrado contribuíram imensamente para o desenvolvimento de meus conhecimentos em finanças, programação, econometria e até mesmo docência, pois tive a oportunidade de ministrar algumas disciplinas no departamento de administração como professor voluntário. Findo o mestrado, o sentimento de que sabia muito pouco sobre finanças diminuiu, mas não passou, então estou sempre atrás de novos conhecimentos que possam me ajudar a entender um pouco mais sobre o maravilhoso mundo das finanças corporativas e do mercado financeiro.
 
 Quanto à minha trajetória profissional, ela ainda está no seu começo. Na reta final do mestrado, decidi estudar e fazer a prova do concurso do Banco do Brasil, uma empresa na qual eu poderia me desenvolver profissionalmente trabalhando com o que amo e em que tenho o prazer de trabalhar hoje.
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-
